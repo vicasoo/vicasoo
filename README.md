@@ -4,12 +4,12 @@
 - 🌱 I’m currently learning Typescript
 - 📫 How to reach me: vinicius@vicaso.com.br
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center">
   <a href="https://github.com/vicasoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicasoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicasoo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api?username=vicasoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicasoo&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block; top: 200px">
   <img align="center" alt="Vicasoo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vicasoo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Vicasoo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
