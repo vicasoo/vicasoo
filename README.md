@@ -7,7 +7,7 @@
 <div style="display: flex; justify-content: center; align-items: center">
   <a href="https://github.com/vicasoo">
   <img height="auto" width="60%" src="https://github-readme-stats.vercel.app/api?username=vicasoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicasoo&layout=compact&langs_count=7&theme=dark"/>
+ <!-- <img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicasoo&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 <div style="display: inline_block; top: 200px">
   <img align="center" alt="Vicasoo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -34,6 +34,6 @@
   <a href = "mailto:vinicius@vicaso.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-carvalho-37154915b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
