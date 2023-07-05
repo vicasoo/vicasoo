@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Working with Node.Js and PHP
-- 🌱 I’m currently learning Typescript and React
+- 🔭 Working with Node.Js, Golang, React and PHP
+<!-- - 🌱 I’m currently learning -->
 - 📫 How to reach me: vinicius@vicaso.com.br
 
 <div style="display: flex; justify-content: center; align-items: center">
